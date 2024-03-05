@@ -1,6 +1,6 @@
 # Washington-EV-Data-ETL
 
-Project objective: To create an ETL (Extract-Transform-Load) pipeline that extracts a public dataset from Washington State's Department of Licensing containing Electric Vehicle registration data, transforms/cleans the data, and then loads the data into an AWS S3 bucket. The data will then be moved into one of AWS's RDS services, such as Aurora or Athena, so that we can perform data analysis using SQL and draw important insights from the data. Finally, we will be using AWS Quicksight to create a dashboard containing important metrics/data visalizations.
+Project objective: To create an ETL (Extract-Transform-Load) pipeline that extracts a public dataset from Washington State's Department of Licensing containing Electric Vehicle registration data, transforms/cleans the data, and then loads the data into an AWS S3 bucket. The data will then be moved into one of AWS's RDS services, such as Aurora or Athena, so that we can perform data analysis using SQL and draw important insights from the data. Finally, we will be using AWS Quicksight to create a dashboard containing important metrics/data visualizations.
 
 
 

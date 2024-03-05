@@ -19,5 +19,5 @@ Technologies used:
 Python, SQL, AWS S3, RDS, Quicksight
 
 Skills used:
-API requests, data extraction, data cleaning, ETL development, data visualization
+API requests, data extraction, data cleaning, ETL development, data analytics, data visualization
 

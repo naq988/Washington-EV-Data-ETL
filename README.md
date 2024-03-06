@@ -21,3 +21,4 @@ Python, SQL, AWS S3, RDS, Quicksight
 Skills used:
 API requests, data extraction, data cleaning, ETL development, data analytics, data visualization
 
+We will be including a python jupyter notebook, as well as a flowchart diagram showing the whole process step-by-step.
